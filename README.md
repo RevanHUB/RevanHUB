@@ -1,8 +1,10 @@
 # Hi there, everyone! My name is David!  👋
 
+<div class="divE" >I've studied Administration of Informatic Systems (mainly backend, and soft frontend),  
+I'm currently forming myself in JavaScript, React and Node.Js to became a Full Stack Developer. 🚀  </div>
+
 ##   About me 🥳
-- I've studied Administration of Informatic Systems (mainly backend, and soft frontend), during 2 years, 
-- I'm currently learning JavaScript, , Node.Js, but a I have a good domain in PHP, MySQLi, HTML, CSS and JavaScript (still have a new world of things to learn ><).  🔭 
+- I have a good domain in PHP, MySQLi, HTML, CSS and JavaScript (still have a new world of things to learn ><).  🔭
 -  I love sport  💪and create projects from the scratch and give them to a succesfull point ><.  
 -  To direct contact me / job offers: https://david-martin-webdev.com 💬
 -  If you don't want to contact me on my website: davidasir2020@gmail.com 📫
