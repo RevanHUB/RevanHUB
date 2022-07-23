@@ -1,7 +1,7 @@
 # Hi there, everyone! My name is David!  👋
 
 <div class="divE" >I've studied Administration of Informatic Systems (mainly backend, and soft frontend),  
-I'm currently forming myself in JavaScript, React and Node.Js to became a Full Stack Developer. 🚀  </div>
+I'm currently forming myself in JavaScript, React and Node.Js to became a Full Stack Developer, because I had an active formation in MySQL, PHP, Bash, Linux, Powershell and Active Directory 🚀  </div>
 
 ##   About me 🥳
 - I have a good domain in PHP, MySQLi, HTML, CSS, JavaScript and React (still have a new world of things to learn ><). Im learning Python and Angular too! 🔭
