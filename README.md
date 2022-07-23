@@ -3,11 +3,11 @@
 <div class="divE" >I've studied Administration of Informatic Systems (mainly backend, and soft frontend), 
 I'm currently forming myself in JavaScript, React and Node.Js to became a Full Stack Developer 🚀 
 
-Frontend: 
+##Frontend: 
 
 In this degree I take formation in HTML, CSS and JS (as frontend) 
 
-Backend: 
+##Backend: 
 
 MySQL, PHP, Bash, Linux, Powershell and Active Directory (as backend)  </div>
 
