@@ -5,11 +5,12 @@ I'm currently forming myself in JavaScript, React and Node.Js to became a Full S
 
 ## Frontend: 
 
-In this degree I take formation in HTML, CSS and JS (as frontend) 
+In this degree I taked formation in HTML, CSS and JS (as frontend) 😄
 
 ## Backend: 
 
-MySQL, PHP, Bash, Linux, Powershell and Active Directory (as backend)  </div>
+MySQL, PHP, Bash, Linux, Powershell and Active Directory (as backend) 😄
+</div>
 
 ##   About me 🥳
 - I have a good domain in PHP, MySQLi, HTML, CSS, JavaScript and React (still have a new world of things to learn ><). Im learning Python and Angular too! 🔭
