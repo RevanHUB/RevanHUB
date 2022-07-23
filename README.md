@@ -4,7 +4,7 @@
 I'm currently forming myself in JavaScript, React and Node.Js to became a Full Stack Developer. 🚀  </div>
 
 ##   About me 🥳
-- I have a good domain in PHP, MySQLi, HTML, CSS and JavaScript (still have a new world of things to learn ><). Im learning React and Angular too! 🔭
+- I have a good domain in PHP, MySQLi, HTML, CSS, JavaScript and React (still have a new world of things to learn ><). Im learning Python and Angular too! 🔭
 -  I love sport  and create projects from the scratch and give them to a succesfull point.  💪
 -  To direct contact me / job offers: https://david-martin-webdev.com 💬
 -  If you don't want to contact me on my website: davidasir2020@gmail.com 📫
